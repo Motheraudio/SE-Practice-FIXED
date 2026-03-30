@@ -18,7 +18,6 @@ const routes: Routes = [
   {path: 'auth', loadChildren: () => import(`./auth/auth.module`).then(m => m.AuthModule)},
   {path: 'account', loadChildren: () => import(`./account/account.module`).then(m => m.AccountModule)},
   {path: 'admin', loadChildren: () => import(`./admin/admin.module`).then(m => m.AdminModule)},
-  { path: 'sustainability', loadChildren: () => import('./sustainability/sustainability.module').then(m => m.SustainabilityModule), data: { title: 'Sustainability' } },
   { path: '**', pathMatch: 'full', component: PagenotfoundComponent }
 ];
 
