@@ -1,7 +1,6 @@
 {
   "title": "Practice Software Testing",
-  "buttons": {
-  },
+  "buttons": {},
   "chat": {
     "title": "Chat-Assistent",
     "welcome": "Hallo! Wie kann ich Ihnen heute helfen?",
@@ -245,7 +244,8 @@
       "my-profile": "Mein Profil",
       "my-invoices": "Meine Rechnungen",
       "my-messages": "Meine Nachrichten",
-      "sign-out": "Abmelden"
+      "sign-out": "Abmelden",
+      "sustainability": "Nachhaltigkeit"
     }
   },
   "footer": {

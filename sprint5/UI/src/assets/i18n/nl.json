@@ -1,7 +1,6 @@
 {
   "title": "Oefenen met Software Testen",
-  "buttons": {
-  },
+  "buttons": {},
   "chat": {
     "title": "Chat Assistent",
     "welcome": "Hallo! Hoe kan ik u vandaag helpen?",
@@ -245,7 +244,8 @@
       "my-profile": "Mijn profiel",
       "my-invoices": "Mijn facturen",
       "my-messages": "Mijn berichten",
-      "sign-out": "Uitloggen"
+      "sign-out": "Uitloggen",
+      "sustainability": "Duurzaamheid"
     }
   },
   "footer": {
