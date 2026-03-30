@@ -1,7 +1,6 @@
 {
   "title": "Practice Software Testing",
-  "buttons": {
-  },
+  "buttons": {},
   "chat": {
     "title": "Chat Assistant",
     "welcome": "Hi! How can I help you today?",
@@ -238,7 +237,8 @@
       "my-profile": "My profile",
       "my-invoices": "My invoices",
       "my-messages": "My messages",
-      "sign-out": "Sign out"
+      "sign-out": "Sign out",
+      "sustainability": "Sustainability"
     }
   },
   "footer": {
