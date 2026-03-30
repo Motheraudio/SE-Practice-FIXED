@@ -1,6 +1,7 @@
 {
   "title": "Practicar Pruebas de Software",
-  "buttons": {},
+  "buttons": {
+  },
   "chat": {
     "title": "Asistente de Chat",
     "welcome": "¡Hola! ¿Cómo puedo ayudarte hoy?",
@@ -244,8 +245,7 @@
       "my-profile": "Mi perfil",
       "my-invoices": "Mis facturas",
       "my-messages": "Mis mensajes",
-      "sign-out": "Cerrar sesión",
-      "sustainability": "Sostenibilidad"
+      "sign-out": "Cerrar sesión"
     }
   },
   "footer": {

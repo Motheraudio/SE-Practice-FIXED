@@ -1,6 +1,7 @@
 {
   "title": "Yazılım Testini Uygulayın",
-  "buttons": {},
+  "buttons": {
+  },
   "chat": {
     "title": "Sohbet Asistanı",
     "welcome": "Merhaba! Bugün size nasıl yardımcı olabilirim?",
@@ -244,8 +245,7 @@
       "my-profile": "Profilim",
       "my-invoices": "Faturalarım",
       "my-messages": "Mesajlarım",
-      "sign-out": "Çıkış Yap",
-      "sustainability": "Sürdürülebilirlik"
+      "sign-out": "Çıkış Yap"
     }
   },
   "footer": {

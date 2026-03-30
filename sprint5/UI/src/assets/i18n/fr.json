@@ -1,6 +1,7 @@
 {
   "title": "Practice Software Testing",
-  "buttons": {},
+  "buttons": {
+  },
   "chat": {
     "title": "Assistant Chat",
     "welcome": "Bonjour ! Comment puis-je vous aider aujourd'hui ?",
@@ -152,7 +153,7 @@
         "length": "La longueur du mot de passe est invalide",
         "minlength": "Le mot de passe doit comporter au moins 6 caractères.",
         "maxlength": "Le mot de passe ne peut pas dépasser 40 caractères.",
-        "pattern": "Le mot de passe doit inclure des caractères invalides."
+        "pattern" : "Le mot de passe doit inclure des caractères invalides."
       }
     },
     "first-name": {
@@ -244,8 +245,7 @@
       "my-profile": "Mon profil",
       "my-invoices": "Mes factures",
       "my-messages": "Mes messages",
-      "sign-out": "Se déconnecter",
-      "sustainability": "Durabilité"
+      "sign-out": "Se déconnecter"
     }
   },
   "footer": {
